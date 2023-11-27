@@ -1,0 +1,20 @@
+/* Enter your custom styles here */
+.boxContent{
+    background-color: black;
+
+}
+.textBox{
+    color: white;
+}
+.footerBox{
+    margin: 4px 4px;
+}
+.bg{
+    position: relative;
+}
+.logo{
+    position: absolute;
+    top: -70px;
+    right: 5px;
+    
+}
